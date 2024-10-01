@@ -1,5 +1,5 @@
 const removeDup = {}
-const arr = [1, 2, 3, [4, 5, 6]]
+const arr = [1, 2, 3, [4, 5, 6, 2, 1]]
 let nestedArr = []
 let count = 0
 

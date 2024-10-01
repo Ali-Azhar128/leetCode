@@ -1,6 +1,3 @@
-
-
-
 const plusOne = (nums) => {
     console.log(nums, 'num')
     const plusOne = parseInt(nums.join('')) + 1
@@ -16,11 +13,3 @@ return newArr
 
 }
 console.log(plusOne([4, 3, 2, 1]))
-
-
-
-
-
-
-
-
