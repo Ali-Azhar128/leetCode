@@ -29,3 +29,4 @@ const PascalTriangle = (n) => {
 
 
 console.log(PascalTriangle(2))
+
